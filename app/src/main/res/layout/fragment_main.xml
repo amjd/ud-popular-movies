@@ -7,5 +7,4 @@
     android:background="#700f0f"
     android:clipToPadding="false"
     android:drawSelectorOnTop="true"
-    android:numColumns="auto_fit"
-    android:verticalSpacing="10dp" />
+    android:numColumns="auto_fit" />

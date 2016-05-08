@@ -43,7 +43,7 @@ public class Movie implements Parcelable {
         this.backdropPath = backdropPath;
         this.posterPath = posterPath;
 
-        this.posterUrl = IMAGE_BASE_URL + "w185" + posterPath;
+        this.posterUrl = IMAGE_BASE_URL + "w342" + posterPath;
         this.backdropUrl = IMAGE_BASE_URL + "w500" + backdropPath;
     }
 
